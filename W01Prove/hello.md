@@ -34,7 +34,7 @@ This section should be filled out at the end of the Sprint and submitted.  For t
 1. Put your GitHub link for your demonstration software here: 
   https://github.com/Slickpic1/CS310.git
 
-2. Put your YouTube link for your code walkthrough and demo video here:
+2. Put your YouTube link for your code walkthrough and demo video here: https://youtu.be/K1YGU6GaHrY
 
 3. Complete the following checklist by either indicating "Yes" or "No".  If you indicate "No" then provide an explanation of why.
 
